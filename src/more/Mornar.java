@@ -10,6 +10,5 @@ public class Mornar {
         this.jacina = jacina;
     }
     public Mornar(){
-
     }
 }
