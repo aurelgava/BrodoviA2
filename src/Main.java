@@ -16,6 +16,7 @@ import more.*;
                 try {
                     System.out.println("Mornar kraljevskog broda na poziciji 1: " + k1.dohvMorn(1));
                 } catch(GIndeks e) {}
+
                 System.out.println("*** Ispis brodova ***");
                 System.out.println(g1);
                 System.out.println(k1);
