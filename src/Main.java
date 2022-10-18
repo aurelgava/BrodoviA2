@@ -4,7 +4,7 @@ import more.*;
         public static void main(String[] args) {
             Mornar m1 = new Mornar("A", 50), m2 = new Mornar("B", 100), m3 = new Mornar("C", 60), m4 = new
                     Mornar("D", 40);
-            GusarskiBrod g1 = new GusarskiBrod("Pearl", 5, m1);
+            /*GusarskiBrod g1 = new GusarskiBrod("Pearl", 5, m1);
             KraljevskiBrod k1 = new KraljevskiBrod("St. John", 2, m3);
             try {
                 g1.dodajMorn(m2);
@@ -37,7 +37,7 @@ import more.*;
                 System.out.println(flota);
             } catch (Exception e) {
                 System.err.println(e);
-            }
+            }*/
         }
     }
 
