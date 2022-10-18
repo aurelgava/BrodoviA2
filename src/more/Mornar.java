@@ -9,8 +9,8 @@ public class Mornar {
         this.ime = ime;
         this.jacina = jacina;
     }
-
     public Mornar(){
+
 
     }
 }
