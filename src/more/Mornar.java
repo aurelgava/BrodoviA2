@@ -14,4 +14,8 @@ public class Mornar {
         this.opis = opis;
     }
 
+    @Override
+    public String toString() {
+        return "Mornar_" + opis + " : " + broj;
+    }
 }
