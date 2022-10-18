@@ -12,7 +12,6 @@ public class Mornar {
 
         else this.broj = Math.min(broj, 100);
         this.opis = opis;
-
     }
 
 }
